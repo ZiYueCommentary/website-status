@@ -22,19 +22,19 @@
     "url": "https://forum.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/forum.ziyuesinicization.site.ico",
     "slug": "forum-ziyuesinicization-site",
-    "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
-    "time": 1556,
-    "timeDay": 1556,
-    "timeWeek": 1556,
-    "timeMonth": 1556,
-    "timeYear": 1556,
+    "status": "up",
+    "uptime": "82.33%",
+    "uptimeDay": "82.33%",
+    "uptimeWeek": "82.33%",
+    "uptimeMonth": "82.33%",
+    "uptimeYear": "82.33%",
+    "time": 1061,
+    "timeDay": 1061,
+    "timeWeek": 1061,
+    "timeMonth": 1061,
+    "timeYear": 1061,
     "dailyMinutesDown": {
-      "2023-11-04": 4
+      "2023-11-04": 48
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ziyuesinicization.site.ico",
     "slug": "blog-ziyuesinicization-site",
     "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptime": "82.39%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "82.39%",
+    "uptimeYear": "82.39%",
     "time": 2197,
     "timeDay": 2197,
     "timeWeek": 2197,
     "timeMonth": 2197,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2023-11-04": 4
+      "2023-11-04": 48
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://weblate.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.ziyuesinicization.site.ico",
     "slug": "weblate-ziyuesinicization-site",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "83.08%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "83.08%",
+    "uptimeMonth": "83.08%",
+    "uptimeYear": "83.08%",
+    "time": 601,
+    "timeDay": 601,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-11-04": 2
+      "2023-11-04": 46
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://alist.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/alist.ziyuesinicization.site.ico",
     "slug": "alist-ziyuesinicization-site",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 663,
-    "timeDay": 663,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "83.25%",
+    "uptimeDay": "83.25%",
+    "uptimeWeek": "83.25%",
+    "uptimeMonth": "83.25%",
+    "uptimeYear": "83.25%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-11-04": 2
+      "2023-11-04": 45
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://www.scpcbgame.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.scpcbgame.cn.ico",
     "slug": "www-scpcbgame-cn",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
-    "time": 1017,
-    "timeDay": 1017,
-    "timeWeek": 1017,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "status": "up",
+    "uptime": "83.43%",
+    "uptimeDay": "83.43%",
+    "uptimeWeek": "83.43%",
+    "uptimeMonth": "83.43%",
+    "uptimeYear": "83.43%",
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-11-04": 1
+      "2023-11-04": 45
     }
   },
   {
@@ -158,19 +158,19 @@
     "url": "https://ntf.scpcbgame.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/ntf.scpcbgame.cn.ico",
     "slug": "ntf-scpcbgame-cn",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1410,
-    "timeDay": 1410,
-    "timeWeek": 1410,
-    "timeMonth": 1410,
-    "timeYear": 1410,
+    "status": "up",
+    "uptime": "83.61%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "83.61%",
+    "uptimeMonth": "83.61%",
+    "uptimeYear": "83.61%",
+    "time": 1068,
+    "timeDay": 1068,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 1068,
     "dailyMinutesDown": {
-      "2023-11-04": 1
+      "2023-11-04": 44
     }
   },
   {
@@ -178,19 +178,19 @@
     "url": "https://www.deltarune.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.deltarune.cn.ico",
     "slug": "www-deltarune-cn",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1204,
-    "timeDay": 1204,
-    "timeWeek": 1204,
-    "timeMonth": 1204,
-    "timeYear": 1204,
+    "status": "up",
+    "uptime": "83.78%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "83.78%",
+    "uptimeYear": "83.78%",
+    "time": 1153,
+    "timeDay": 1153,
+    "timeWeek": 1153,
+    "timeMonth": 1153,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-11-04": 0
+      "2023-11-04": 44
     }
   }
 ]
