@@ -94,19 +94,19 @@
     "url": "https://files.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/files.ziyuesinicization.site.ico",
     "slug": "files-ziyuesinicization-site",
-    "status": "down",
-    "uptime": "10.29%",
-    "uptimeDay": "10.29%",
-    "uptimeWeek": "10.29%",
-    "uptimeMonth": "10.29%",
-    "uptimeYear": "10.29%",
-    "time": 271,
-    "timeDay": 271,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "1.71%",
+    "uptimeDay": "1.71%",
+    "uptimeWeek": "1.71%",
+    "uptimeMonth": "1.71%",
+    "uptimeYear": "1.71%",
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-11-04": 0
+      "2023-11-04": 9
     }
   },
   {
