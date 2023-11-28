@@ -22,10 +22,10 @@
     "url": "https://forum.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/forum.ziyuesinicization.site.ico",
     "slug": "forum-ziyuesinicization-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 1733,
@@ -34,6 +34,7 @@
     "timeMonth": 1733,
     "timeYear": 1733,
     "dailyMinutesDown": {
+      "2023-11-28": 3,
       "2023-11-04": 48
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://blog.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ziyuesinicization.site.ico",
     "slug": "blog-ziyuesinicization-site",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1618,
     "timeDay": 1163,
     "timeWeek": 1288,
     "timeMonth": 1618,
     "timeYear": 1618,
     "dailyMinutesDown": {
+      "2023-11-28": 3,
       "2023-11-04": 57
     }
   },
@@ -80,10 +82,10 @@
     "url": "https://weblate.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.ziyuesinicization.site.ico",
     "slug": "weblate-ziyuesinicization-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 512,
@@ -92,6 +94,7 @@
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2023-11-28": 1,
       "2023-11-04": 46
     }
   },
@@ -121,9 +124,9 @@
     "url": "https://alist.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/alist.ziyuesinicization.site.ico",
     "slug": "alist-ziyuesinicization-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -133,6 +136,7 @@
     "timeMonth": 595,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2023-11-28": 0,
       "2023-11-04": 45
     }
   },
@@ -184,18 +188,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.deltarune.cn.ico",
     "slug": "www-deltarune-cn",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1040,
     "timeDay": 1398,
     "timeWeek": 1191,
     "timeMonth": 1040,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-11-28": 0,
+      "2023-11-28": 54,
       "2023-11-04": 44
     }
   }
