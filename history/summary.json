@@ -104,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.ziyuesinicization.site.ico",
     "slug": "files-ziyuesinicization-site",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.82%",
+    "uptimeYear": "96.84%",
     "time": 254,
     "timeDay": 70,
     "timeWeek": 187,
@@ -187,9 +187,9 @@
     "url": "https://www.deltarune.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.deltarune.cn.ico",
     "slug": "www-deltarune-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.72%",
@@ -199,6 +199,7 @@
     "timeMonth": 1099,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-11-28": 100,
       "2023-11-04": 44
     }
