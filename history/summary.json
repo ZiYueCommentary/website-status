@@ -64,19 +64,19 @@
     "url": "https://gitbook.ziyuesinicization.site/",
     "icon": "https://icons.duckduckgo.com/ip3/gitbook.ziyuesinicization.site.ico",
     "slug": "gitbook-ziyuesinicization-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 123,
-    "timeWeek": 477,
-    "timeMonth": 456,
-    "timeYear": 520,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 529,
+    "timeDay": 400,
+    "timeWeek": 530,
+    "timeMonth": 471,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 9
     }
   },
   {
